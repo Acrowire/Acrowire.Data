@@ -1,0 +1,5 @@
+E:\github\Acrowire.Data\Acrowire.Data\obj\Debug\Acrowire.Data.csprojResolveAssemblyReference.cache
+E:\github\Acrowire.Data\Acrowire.Data\bin\Debug\Acrowire.Data.dll
+E:\github\Acrowire.Data\Acrowire.Data\bin\Debug\Acrowire.Data.pdb
+E:\github\Acrowire.Data\Acrowire.Data\obj\Debug\Acrowire.Data.dll
+E:\github\Acrowire.Data\Acrowire.Data\obj\Debug\Acrowire.Data.pdb
